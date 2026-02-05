@@ -1,0 +1,13 @@
+soliana temesgen
+student_id = 601
+reg_id = 1499
+class_id = 9 -> grade 6
+section = 128 -> A
+
+
+
+there is another soliana temesgen 
+student id = 1127
+reg id = 1495
+class 9 => grade 6
+secion 128 => A
